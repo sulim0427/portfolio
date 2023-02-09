@@ -1,0 +1,19 @@
+*{margin: 0;padding: 0;}
+ul,ol{list-style: none;}
+body {
+    overflow: hidden;
+    margin: auto;
+	font-family: 'GoyangDeogyang';
+	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+    background: linear-gradient(180deg, #140a55, #281c72);
+}
+
+a{color:#000;}
+video{
+    display: block;
+    margin: 110px auto;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+}
