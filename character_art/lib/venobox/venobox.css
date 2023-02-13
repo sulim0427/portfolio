@@ -182,15 +182,16 @@ or at least read this note: http://i.imgur.com/7C0ws9e.gif
 
 .vbox-content{
     text-align: center;
-    float: left;
-    width: 100%;
+    /* float: left;
+    width: 100%; */
+    height: 100%;
     position: relative;
     overflow: hidden;
     padding: 20px 10px;
 }
 .vbox-container img{
-    max-width: 100%;
-    height: auto;
+    /* max-width: 100%; */
+    height: 100%;
 }
 .figlio{
     box-shadow: 0 0 12px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
